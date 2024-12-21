@@ -38,7 +38,7 @@ header("Location: read.php");
         <input type="email" id="email" name="email"><br>
         <label for="phone">Phone:</label><br>
         <input type="tel" id="phone" name="phone"><br>
-        <label for="password">Password:</label><br>
+        <label for="password">Password</label><br>
         <input type="password" id="password" name="password"><br>
         <input type="submit" value="Submit">
     </form>
