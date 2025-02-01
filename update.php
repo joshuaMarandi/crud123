@@ -1,7 +1,6 @@
 <?php
 include 'db.php';
 
-
 if ($_SERVER["REQUEST_METHOD"] == "POST") {
     // Handle form submission to update the user data
     $id = $_POST['id'];
